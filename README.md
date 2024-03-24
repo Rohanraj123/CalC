@@ -10,10 +10,13 @@ Elegant and responsive UI design with Jetpack Compose
 Support for dark mode
 Easy-to-use interface for quick calculations
 # Screenshots
-![Screenshot_20240324-184601_CalculatorApp](https://github.com/Rohanraj123/CalC/assets/96484809/aaddabfe-905a-43b5-bfb2-107efacd9ce6)![Screenshot_20240324-184648_CalculatorApp](https://github.com/Rohanraj123/CalC/assets/96484809/077bcfb3-9446-40f2-aff0-bf7a500a2c54)
-![Screenshot_20240324-184642_CalculatorApp](https://github.com/Rohanraj123/CalC/assets/96484809/d2db2eb4-575b-407c-9626-4adaeef30760)
-![Screenshot_20240324-184637_CalculatorApp](https://github.com/Rohanraj123/CalC/assets/96484809/b92888a0-3829-4819-9e4c-4e7c098c1739)
-![Screenshot_20240324-184626_CalculatorApp](https://github.com/Rohanraj123/CalC/assets/96484809/9d798774-3c62-4df0-ac09-fe0d5610f6e2)
+<div align="center">
+  <img src="https://github.com/Rohanraj123/CalC/assets/96484809/aaddabfe-905a-43b5-bfb2-107efacd9ce6" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/Rohanraj123/CalC/assets/96484809/077bcfb3-9446-40f2-aff0-bf7a500a2c54" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/Rohanraj123/CalC/assets/96484809/d2db2eb4-575b-407c-9626-4adaeef30760" alt="Screenshot 3" width="200"/>
+  <img src="https://github.com/Rohanraj123/CalC/assets/96484809/b92888a0-3829-4819-9e4c-4e7c098c1739" alt="Screenshot 4" width="200"/>
+  <img src="https://github.com/Rohanraj123/CalC/assets/96484809/9d798774-3c62-4df0-ac09-fe0d5610f6e2" alt="Screenshot 5" width="200"/>
+</div>
 
 # Local Setup
 To set up the project locally and run it on your Android device or emulator, follow these steps:
